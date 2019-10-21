@@ -1,1 +1,1 @@
-# leetcode-java
+# My Leetcode Solution in JAVA
